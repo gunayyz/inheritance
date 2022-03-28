@@ -1,0 +1,13 @@
+/Users/gunay/Projects/car/car/obj/Debug/netcoreapp3.1/car.csproj.AssemblyReference.cache
+/Users/gunay/Projects/car/car/obj/Debug/netcoreapp3.1/car.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunay/Projects/car/car/obj/Debug/netcoreapp3.1/car.AssemblyInfoInputs.cache
+/Users/gunay/Projects/car/car/obj/Debug/netcoreapp3.1/car.AssemblyInfo.cs
+/Users/gunay/Projects/car/car/obj/Debug/netcoreapp3.1/car.csproj.CoreCompileInputs.cache
+/Users/gunay/Projects/car/car/bin/Debug/netcoreapp3.1/car.deps.json
+/Users/gunay/Projects/car/car/bin/Debug/netcoreapp3.1/car.runtimeconfig.json
+/Users/gunay/Projects/car/car/bin/Debug/netcoreapp3.1/car.runtimeconfig.dev.json
+/Users/gunay/Projects/car/car/bin/Debug/netcoreapp3.1/car.dll
+/Users/gunay/Projects/car/car/bin/Debug/netcoreapp3.1/car.pdb
+/Users/gunay/Projects/car/car/obj/Debug/netcoreapp3.1/car.dll
+/Users/gunay/Projects/car/car/obj/Debug/netcoreapp3.1/car.pdb
+/Users/gunay/Projects/car/car/obj/Debug/netcoreapp3.1/car.genruntimeconfig.cache
