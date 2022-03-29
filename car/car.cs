@@ -3,7 +3,6 @@ namespace car
 {
     public class Car
     {
-
         public string Brand;
         public string Model;
         public string Color;
@@ -11,32 +10,22 @@ namespace car
 
         public virtual void Info()
         {
-            Console.WriteLine($"brand {Brand} Model {Model} Color {Color} MaxSpeed {MaxSpeed}")
-                ;
+            Console.WriteLine($"brand-{Brand} Model-{Model} Color-{Color} MaxSpeed-{MaxSpeed}");                
         }
         public Car()
         {
             Console.WriteLine("Car Created");
         }
-        public Car(string Brand,string Model)
+        public Car(string Brand,string Model):this()
         {
             this.Brand = Brand;
             this.Model = Model;
-
         }
         public Car(string Brand, string Model, string Color, double MaxSpeed):this(Brand,Model)
         {
             this.Color = Color;
             this.MaxSpeed = MaxSpeed;
         }
-
-
-
-
-
-
-
-
     }
 }
 

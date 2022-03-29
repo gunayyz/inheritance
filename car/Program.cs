@@ -6,11 +6,10 @@ namespace car
 
         static void Main()
         {
-            Car car = new Car("TESLA", "S5", "BLACK", 120);
-            Bus bus = new Bus("BAKUBUS", "BAKU", "YELLOW", 30, 20);
+            Car car = new Car("TESLA", "S5", "BLACK", 200);
             car.Info();
+            Car bus = new Bus("BAKUBUS", "BAKU", "YELLOW", 120, 20);
             bus.Info();
-
             Console.WriteLine();
         }
 
