@@ -1,0 +1,13 @@
+/Users/gunay/Documents/Extension/Extension/bin/Debug/netcoreapp3.1/Extension.deps.json
+/Users/gunay/Documents/Extension/Extension/bin/Debug/netcoreapp3.1/Extension.runtimeconfig.json
+/Users/gunay/Documents/Extension/Extension/bin/Debug/netcoreapp3.1/Extension.runtimeconfig.dev.json
+/Users/gunay/Documents/Extension/Extension/bin/Debug/netcoreapp3.1/Extension.dll
+/Users/gunay/Documents/Extension/Extension/bin/Debug/netcoreapp3.1/Extension.pdb
+/Users/gunay/Documents/Extension/Extension/obj/Debug/netcoreapp3.1/Extension.csproj.AssemblyReference.cache
+/Users/gunay/Documents/Extension/Extension/obj/Debug/netcoreapp3.1/Extension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunay/Documents/Extension/Extension/obj/Debug/netcoreapp3.1/Extension.AssemblyInfoInputs.cache
+/Users/gunay/Documents/Extension/Extension/obj/Debug/netcoreapp3.1/Extension.AssemblyInfo.cs
+/Users/gunay/Documents/Extension/Extension/obj/Debug/netcoreapp3.1/Extension.csproj.CoreCompileInputs.cache
+/Users/gunay/Documents/Extension/Extension/obj/Debug/netcoreapp3.1/Extension.dll
+/Users/gunay/Documents/Extension/Extension/obj/Debug/netcoreapp3.1/Extension.pdb
+/Users/gunay/Documents/Extension/Extension/obj/Debug/netcoreapp3.1/Extension.genruntimeconfig.cache
